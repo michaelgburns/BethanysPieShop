@@ -18,3 +18,15 @@ C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\staticwebassets\B
 C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.dll
 C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.pdb
 C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.genruntimeconfig.cache
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cache
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorAssemblyInfo.cs
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.input.cache
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.TagHelpers.output.cache
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorCoreGenerate.cache
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
+C:\dev\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.dll
+C:\dev\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.Views.pdb
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CopyComplete
