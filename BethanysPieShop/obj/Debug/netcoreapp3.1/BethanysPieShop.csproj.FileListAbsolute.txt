@@ -50,3 +50,4 @@ C:\dev\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\
 C:\dev\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.csproj.CoreCompileInputs.cache
 C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\BethanysPieShop.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
